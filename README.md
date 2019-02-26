@@ -24,7 +24,7 @@ In the view declaration, put widget='color' attribute in the field tag::
     <field name="arch" type="xml">
         <form string="View name">
             ...
-            <field name="color" widget="iconpicker"/>
+            <field name="icon" widget="iconpicker"/>
             ...
         </form>
     </field>
