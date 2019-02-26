@@ -10,7 +10,7 @@ You need to declare a char field::
     )
 
 
-In the view declaration, put widget='color' attribute in the field tag::
+In the view declaration, put widget='iconpicker' attribute in the field tag::
 
     ...
     <field name="arch" type="xml">
