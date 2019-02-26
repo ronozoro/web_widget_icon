@@ -3,7 +3,7 @@
     'name': "Web Widget Icon",
     'category': "web",
     'version': "11.0.1.0.0",
-    "author": "",
+    "author": "Mostafa Mohamed",
     'depends': ['base', 'web'],
     'data': [
         'view/web_widget_icon_view.xml'
